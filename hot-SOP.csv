@@ -1,0 +1,46 @@
+Item,Weight,Value,Lower,Upper,Shared,PartialShared
+Grenade pouches (2),3,7.1,0,2,0,0
+Magazine pouches (3),3,7.1,0,6,0,0
+BAT and HIIDE System,22,9.0,0,1,1,0
+Batteries PRC-152,7,8.3,0,18,1,0
+Binoculars/Spotting scope,39,4.7,0,1,0,1
+Boonie cover,2,8.3,1,1,0,0
+Boots,31,5.0,1,1,0,0
+Breaching kit,250,9.0,0,1,1,0
+Camel back,69,9.5,3,3,0,0
+Cammie paint,1,2.9,0,3,0,1
+Canteen cup,2,4.0,0,1,0,0
+Combat tarp,23,6.4,0,1,0,0
+Covered canteen with one quart water,23,9.5,6,6,0,0
+Dog tags,1,4.5,1,1,0,0
+Dump pouch,3,7.1,1,1,0,0
+E-tool with carrier,27,6.0,0,1,0,0
+Eye protection/ear protection,3,7.2,0,1,0,0
+First aid kit,40,8.3,1,2,0,0
+Gloves,3,4.7,1,1,0,0
+Gortex top/bottom,30,4.1,0,0,0,0
+Helmet with cover,35,9.3,1,1,0,0
+Hip belt,3,2.7,1,1,0,0
+Hygiene gear,20,5.8,0,0,0,0
+ID card,1,2.2,1,1,0,0
+Individual water purifier,9,9.0,1,1,0,0
+Load bearing vest (LBV),18,7.0,0,1,0,0
+Main pack liner,90,6.7,0,1,0,0
+Map pens,1,8.3,0,1,0,0
+Metal detector,61,9.0,0,1,1,0
+MREs,39,9.7,3,6,0,0
+Note taking gear,1,8.3,0,1,0,0
+NVG PVS 14 (night vision),9,4.7,1,1,0,0
+Poncho liner,16,6.3,0,1,0,0
+Protractor,1,8.3,0,1,0,0
+Pyro set (smoke/flares),13,8.0,0,6,0,1
+Radio PRC-152 encrypted,20,8.3,0,1,1,0
+Rifle with sling,84,8.9,0,1,0,0
+Sapi plate carrier with Sapis,190,9.1,0,1,0,0
+"Combat utility, blouse, and trouser",30,4.1,0,1,0,0
+Skivvy shirt,2,4.9,1,1,0,0
+SL3 complete,1,8.3,0,1,0,0
+"Sleeping bag, bivvy cover, and mat",74,6.2,0,1,0,0
+Socks,2,7.7,1,1,0,0
+Sun Block,2,8.3,0,3,1,0
+Underwear,2,5.0,0,1,0,0
